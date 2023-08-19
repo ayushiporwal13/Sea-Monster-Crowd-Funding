@@ -23,8 +23,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://i.imgur.com/eqWandc.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Video Walkthrough](https://i.imgur.com/eqWandc.gifv)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [CloudConvert](https://cloudconvert.com/mp4-to-gif)
